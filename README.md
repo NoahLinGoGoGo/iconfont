@@ -42,5 +42,3 @@
 ![Aaron Swartz](https://raw.githubusercontent.com/linshengqi/MarkdownPhotos/master/indexPage.png)
 
 
-
-[demo地址](https://github.com/linshengqi/iconfont) 
