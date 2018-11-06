@@ -36,7 +36,7 @@
 
 - **wxml中引用**
 ![Aaron Swartz](https://raw.githubusercontent.com/linshengqi/MarkdownPhotos/master/index.wxml.png)
-- **效果图**
+
 ![Aaron Swartz](https://raw.githubusercontent.com/linshengqi/MarkdownPhotos/master/indexPage.png)
 
 
