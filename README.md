@@ -2,7 +2,7 @@
 
 ## 1. 下载资源
 
-- **登录网站 [阿里巴巴字体图标](http://www.iconfont.cn/) **
+-  **登录网站** [阿里巴巴字体图标](http://www.iconfont.cn/) 
 
 ![Aaron Swartz](https://upload-images.jianshu.io/upload_images/9028759-eb49958739402c14.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -25,18 +25,18 @@
 - **将修改后的iconfont.css里面的代码全部复制到微信小程序中需要用到的wxss文件中，我的如下： (注意：src这里经过了base64加密处理)**
 
 
-![Aaron Swartz](https://raw.githubusercontent.com/linshengqi/MarkdownPhotos/master/font.wcxss_1.png)
+![Aaron Swartz](https://github.com/linshengqi/MarkdownPhotos/blob/master/miniprogram/font.wcxss_1.png?raw=true)
 
-![Aaron Swartz](https://raw.githubusercontent.com/linshengqi/MarkdownPhotos/master/font.wxss.png)
+![Aaron Swartz](https://github.com/linshengqi/MarkdownPhotos/blob/master/miniprogram/font.wxss.png?raw=true)
 
 
 - **app.wxss全局引用**
-![Aaron Swartz](https://raw.githubusercontent.com/linshengqi/MarkdownPhotos/master/app.wxss.png)
+![Aaron Swartz](https://github.com/linshengqi/MarkdownPhotos/blob/master/miniprogram/app.wxss.png?raw=true)
 
 
 - **wxml中引用**
-![Aaron Swartz](https://raw.githubusercontent.com/linshengqi/MarkdownPhotos/master/index.wxml.png)
-
-![Aaron Swartz](https://raw.githubusercontent.com/linshengqi/MarkdownPhotos/master/indexPage.png)
+![Aaron Swartz](https://github.com/linshengqi/MarkdownPhotos/blob/master/miniprogram/index.wxml.png?raw=true)
 
 
+- **效果图**
+![Aaron Swartz](https://github.com/linshengqi/MarkdownPhotos/blob/master/miniprogram/indexPage.png?raw=true)
